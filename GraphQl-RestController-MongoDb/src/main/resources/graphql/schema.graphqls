@@ -1,0 +1,17 @@
+schema{
+   query:Query
+}
+
+type Person{
+   id:Int
+   name:String
+   mobile:String
+   email:String
+   address:[String]
+}
+
+type Query{
+  Persons:[Person]
+  Person(id:Int):Person
+}
+

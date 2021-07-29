@@ -1,0 +1,8 @@
+server:
+  port : 1050
+spring:
+    data:
+     mongodb:
+      uri: mongodb+srv://application:oUOcIIlPgy9CjVWI@cluster0.n91ep.mongodb.net/cwa_asset_data?retryWrites=true&w=majority
+      port: 27017
+      database: cwa_asset_data

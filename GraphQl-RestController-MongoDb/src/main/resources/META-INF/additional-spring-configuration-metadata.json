@@ -1,0 +1,72 @@
+{"properties": [
+  {
+    "name": "PROJECT_ID",
+    "type": "java.lang.String",
+    "description": "A description for 'PROJECT_ID'"
+  },
+  {
+    "name": "spring.cloud.config.namespace",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.config.namespace'"
+  },
+  {
+    "name": "spring.cloud.config.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.config.enabled'"
+  },
+  {
+    "name": "spring.cloud.config.name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.config.name'"
+  },
+  {
+    "name": "spring.cloud.config.profile",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.config.profile'"
+  },
+  {
+    "name": "spring.cloud.config.label",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.config.label'"
+  },
+  {
+    "name": "spring.cloud.gcp.project-id",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.gcp.project-id'"
+  },
+  {
+    "name": "spring.cloud.gcp.credentials.location",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.gcp.credentials.location'"
+  },
+  {
+    "name": "spring.cloud.gcp.bigquery.datasetName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.gcp.bigquery.datasetName'"
+  },
+  {
+    "name": "spring.cloud.gcp.bigquery.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.gcp.bigquery.enabled'"
+  },
+  {
+    "name": "spring.cloud.gcp.bigquery.project-id",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.gcp.bigquery.project-id'"
+  },
+  {
+    "name": "spring.cloud.gcp.bigquery.credentials.location",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.gcp.bigquery.credentials.location'"
+  },
+  {
+    "name": "spring.cloud.gcp.bigquery.datasetName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.gcp.bigquery.datasetName'"
+  },
+  {
+    "name": "spring.cloud.gcp.bigquery.datasetName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.gcp.bigquery.datasetName'"
+  }
+]}
