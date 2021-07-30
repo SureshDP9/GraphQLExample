@@ -1,0 +1,38 @@
+schema{
+   query:Query
+   mutation:Mutation
+}
+
+type Employee{
+    employeeId:ID!,
+    employeeName:String,
+    department:String,
+    address:Address
+}
+type Address{
+  street:String,
+  city:String,
+  state:String,
+  pincode:String
+}
+type Query{
+   getAllEmployees:[Employee]!
+   getEmployeeById(EmployeeId:Int):Employee
+}
+input AddInput{
+   street:String,
+   city:String,
+   state:String,
+   pincode:String
+}
+input EmpInput{
+    employeeId:Int,
+    employeeName:String,
+    department:String,
+    address:AddInput
+}
+
+type Mutation{
+    createEmployee(input:EmpInput):Employee
+    updateDepartment(employeeId:Int,department:String):Employee
+}

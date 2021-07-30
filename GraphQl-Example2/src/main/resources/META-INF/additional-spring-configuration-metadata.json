@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "graphql.servlet.corsEnabled",
+    "type": "java.lang.String",
+    "description": "A description for 'graphql.servlet.corsEnabled'"
+  },
+  {
+    "name": "graphql.servlet.mapping",
+    "type": "java.lang.String",
+    "description": "A description for 'graphql.servlet.mapping'"
+  },
+  {
+    "name": "graphql.servlet.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'graphql.servlet.enabled'"
+  },
+  {
+    "name": "graphql.servlet.corsEnabled",
+    "type": "java.lang.String",
+    "description": "A description for 'graphql.servlet.corsEnabled'"
+  },
+  {
+    "name": "graphql.servlet.corsEnabled",
+    "type": "java.lang.String",
+    "description": "A description for 'graphql.servlet.corsEnabled'"
+  },
+  {
+    "name": "graphql.servlet.corsEnabled",
+    "type": "java.lang.String",
+    "description": "A description for 'graphql.servlet.corsEnabled'"
+  },
+  {
+    "name": "graphql.servlet.corsEnabled",
+    "type": "java.lang.String",
+    "description": "A description for 'graphql.servlet.corsEnabled'"
+  }
+]}
